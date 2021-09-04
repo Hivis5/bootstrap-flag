@@ -1,0 +1,18 @@
+.box {
+  margin: 20px;
+}
+h4 {
+  margin-bottom: 10px;
+}
+
+div > p {
+  border: 1px white solid;
+}
+.input[type="text"] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-right: 16px;
+  font-size: 17px;
+  margin-bottom: 10px;
+}
